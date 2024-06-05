@@ -32,6 +32,9 @@ La sintaxis de llamada a la herramienta puede ser la siguiente:
 
 `java GlobFinder <directorio> <patrón glob>`
 
+Puedes encontrar el código fuente completo de este ejercicio resuelto [aquí](./S04E04/)
+
+
 ## Ejercicios propuestos
 
 5. Implementa una herramienta similar a `wc` de los sistemas Linux/Unix que sea capaz de contar el número de líneas, palabras y letras que tiene un fichero de texto. La ruta del fichero la puede recibir desde la línea de argumentos.
