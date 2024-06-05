@@ -30,9 +30,9 @@ El módulo `moduloa` depende directamente del módulo `modulob` y transitivament
 
 Puedes encontrar el código fuente completo de este ejercicio resuelto en vídeo en los siguientes enlaces: 
 
-- [moduloa](../S03E02M1/)
-- [modulob](../S03E02M2/)
-- [moduloc](../S03E02M3/)
+- [moduloa](./S03E02M1/)
+- [modulob](./S03E02M2/)
+- [moduloc](./S03E02M3/)
 
 
 ## Ejercicio propuesto
